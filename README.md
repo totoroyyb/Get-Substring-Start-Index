@@ -1,1 +1,1 @@
-# Get-Substring-Start-Index
+﻿# Get-Substring-Start-IndexThis is a very simple cpp example about how to get a substring start index based on iostream.
